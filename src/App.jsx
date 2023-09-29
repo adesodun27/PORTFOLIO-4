@@ -24,16 +24,14 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  name: "Adesodun Titilope Temiloluwa",
+  title: "Budding Web Developer",
+  email: "Titilope.Adesodun@studentambassadors.com",
+  gitHub: "https://github.com/adesodun27",
+  instagram: "https://www.instagram.com/titilope.adesodun/",
+  linkedIn: "https://www.linkedin.com/in/titilope-adesodun/",
 };
+
 
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";

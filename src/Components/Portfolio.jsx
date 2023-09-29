@@ -19,9 +19,10 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/T2.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Age Calculator";
+
 
 /**
  * Project list
@@ -31,10 +32,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Blog Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is one of mu project",
+    url: "https://github.com/adesodun27/Age-Calculator/tree/e2007bee4edb590ac0d50725d85386156be195d9",
   },
   {
     title: "Web Development for Beginners",
@@ -55,6 +56,7 @@ const projectList = [
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
+
 
 const Portfolio = () => {
   return (
