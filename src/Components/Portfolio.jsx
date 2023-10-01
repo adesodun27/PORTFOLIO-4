@@ -34,7 +34,7 @@ const projectList = [
   {
     title: "My Blog Website",
     description:
-      "This is one of mu project",
+      "This is one of my project",
     url: "https://github.com/adesodun27/Age-Calculator/tree/e2007bee4edb590ac0d50725d85386156be195d9",
   },
   {
